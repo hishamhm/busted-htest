@@ -12,6 +12,8 @@ It is based on the `gtest` output handler that is bundled with Busted.
 * Always produces color output on Unix
 * Test timing is showcased to the left, and long-running tests (over 1 or 10 seconds) are highlighted in different colors
 
+![Screenshot](docs/busted-htest.png)
+
 ## Installing
 
 ```bash
